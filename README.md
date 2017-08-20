@@ -6,3 +6,5 @@
 ### Prerequisites
 - [Python 3](https://www.python.org/downloads/)
   - Modules required:
+- [Selenium Chrome Webdriver](https://sites.google.com/a/chromium.org/chromedriver/)
+  - Make sure that the Google Chrome Browser is installed as well!
