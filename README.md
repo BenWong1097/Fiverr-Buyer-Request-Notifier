@@ -3,6 +3,6 @@
 - __Problem__: Fiverr does not provide real time notifcations to sellers when a potential buyer puts up an offer.
 - __Solution__: The script checks at set intervals for new buyer requests and notifies the user when a new one is made available.
 ## Getting Started
-###Prerequisites
+### Prerequisites
 - [Python 3](https://www.python.org/downloads/)
   - Modules required:
