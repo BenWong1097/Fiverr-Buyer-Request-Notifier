@@ -25,4 +25,4 @@
 - Python
 - Selenium Webdriver
 ## License
-This project is under the [MIT License](../LICENSE.md)
+This project is under the [MIT License](../../LICENSE.md)
