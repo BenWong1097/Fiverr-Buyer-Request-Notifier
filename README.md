@@ -24,5 +24,9 @@
 ## Built with
 - Python
 - Selenium Webdriver
-## License
+
+# Authors
+- Benjamin Wong
+
+# License
 This project is under the [MIT License](/LICENSE.md)
